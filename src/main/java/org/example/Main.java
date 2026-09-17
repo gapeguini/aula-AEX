@@ -14,9 +14,10 @@ public class Main {
             IO.println("i = " + i);
             IO.println("oi");
         }
-        int c = 10;
+        IO.println("");
+        IO.println("");
+        int c = 5;
         while (c > 0) {
-            IO.println("");
             IO.println("" + c);
             c--;
         }
